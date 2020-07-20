@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋🏼 </h1>
 
 
-* I am [Raúl Rivadeneyra](www.linkedin.com/in/Rivadeneyra)😊. I am currently studying Software Engineering at the Faculty of Mathematics in Yucatán 🖥
+* I am [Raúl Rivadeneyra](www.linkedin.com/in/Rivadeneyra)😊. Currently studying Software Engineering at the Faculty of Mathematics in Yucatán 🖥
 
 * I'm the CEO of SoraTomo and Events Director at Coding Talkers ✨
 
@@ -57,14 +57,6 @@
 <td align="center" width="20%">
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/550px-Unity_Technologies_logo.svg.png"> 
 </td>
-
-
-
-
-</tr>
-
-
-</tr>
 
 </tbody>
 </table>
