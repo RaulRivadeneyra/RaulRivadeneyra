@@ -9,7 +9,7 @@
 
 * I am currently working on developing a 2D mobile game and making Coding Talker's pilot project succeed 🦄
 
-* If you want to take a better look at projects, go ahead -> [💡](www.github.com)
+* If you want to take a better look at my projects, go ahead -> [💡](www.github.com)
 
 ## ⌨️ Tech Stack ⌨️
 
