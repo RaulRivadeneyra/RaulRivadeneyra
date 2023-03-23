@@ -3,8 +3,6 @@
 
 * I am [Raúl Rivadeneyra](www.linkedin.com/in/Rivadeneyra)😊. Currently studying Software Engineering at the Faculty of Mathematics in Yucatán 🖥
 
-* I'm the CEO of SoraTomo and Events Director at Coding Talkers ✨
-
 * My forte is managing projects in a human-oriented manner, not just focusing on the well-being of my clients, but also on the happiness of the team 💪🏼
 
 * I am currently working on developing a 2D mobile game and making Coding Talker's pilot project succeed 🦄
