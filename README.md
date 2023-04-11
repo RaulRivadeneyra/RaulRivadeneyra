@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋🏼 </h1>
 
 
-* I am [Raúl Rivadeneyra](www.linkedin.com/in/Rivadeneyra)😊. Currently studying Software Engineering at the Faculty of Mathematics in Yucatán 🖥
+* I am [Raúl Rivadeneyra](https://www.linkedin.com/in/Rivadeneyra)😊. Currently studying Software Engineering at the Faculty of Mathematics in Yucatán 🖥
 
 * My forte is managing projects in a human-oriented manner, not just focusing on the well-being of my clients, but also on the happiness of the team 💪🏼
 
