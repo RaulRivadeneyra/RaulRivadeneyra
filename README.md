@@ -4,7 +4,7 @@ I'm a vibrant and creative soul, embracing the world Software Engineering 🖥. 
 
 ## 🌟 What Defines Me:
 
-My forte lies in the art of project management, where I approach each endeavor with a human-centered touch. It's not just about delivering results for clients; it's about cultivating a team environment where happiness and well-being thrive alongside professional success 💪🏼. I'm a believer in the power of collaboration and collective growth.
+My forte lies in knowing multiple distinct areas, which becomes the bedrock for creating seamless communication channels between departments. I approach each endeavor with a human-centered touch, cultivating an environment where happiness and well-being thrive alongside professional success 💪🏼. I'm a staunch believer in the power of collaboration and collective growth.
 
 ## 🚀 Current Ventures:
 
