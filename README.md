@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Raúl Rivadeneyra! 👋🏼</h1>
 
-I'm a vibrant and creative soul, embracing the world Software Engineering 🖥. With a keen eye for innovation and a heart for human connection, I'm on a mission to make a meaningful impact in both the digital realm and the lives of those around me.
+I'm a vibrant and creative soul, embracing the world of Software Engineering 🖥. With a keen eye for innovation and a heart for human connection, I'm on a mission to make a meaningful impact in both the digital realm and the lives of those around me.
 
 ## 🌟 What Defines Me:
 
